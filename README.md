@@ -119,7 +119,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
 -->
 
 <details id=3>
-<summary><h2>Step 3: Suggest changes</h2></summary>
+<summary><h2>Step 3: Suggest your changes</h2></summary>
 
 _Nice work reviewing that pull request :sparkles:_
 
